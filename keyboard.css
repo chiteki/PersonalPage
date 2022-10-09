@@ -1,0 +1,51 @@
+#keyMainLink {
+    color: rgb(255, 61, 236);
+    text-decoration: none;
+}
+
+.hlContainer {
+    border: 4px solid rgb(46, 46, 46);
+    border-radius: 10px;
+    background-color: rgb(66, 66, 66);
+    padding: 4px;
+    margin: 4px;
+    text-align: center;
+    line-height: 1em;
+}
+
+.keyContainer {
+    text-align: center;
+    border: 4px solid rgb(46, 46, 46);
+    border-radius: 10px;
+    background-color: rgb(66, 66, 66);
+    margin: 4px; 
+    line-height: 0;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.klContainer {
+    border: 4px solid rgb(46, 46, 46);
+    border-radius: 10px;
+    background-color: rgb(66, 66, 66);
+    padding: 4px;
+    margin: 4px;
+    text-align: center;
+    line-height: 1em;
+}
+
+.keyboardList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    line-height: 120%;
+    text-decoration: none;
+}
+
+#kkLink {
+    color: rgb(255, 61, 236);
+    text-decoration: none;
+}
